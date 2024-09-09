@@ -5,11 +5,11 @@
 Facial emotion recognition in machine learning and AI is crucial for several reasons. Humans express emotions primarily through facial expressions, and understanding these expressions can significantly enhance human-computer interactions, social robotics, and various applications across industries. In fields such as human-computer interaction, healthcare, customer service, and security, the ability of machines to recognize and respond to human emotions is becoming increasingly important.
 
 Facial expression of emotions is cross-cultural, and several studies have shown its globality.
-[(See references 1, 2, 3, 4)](#references1)
+
 By deciphering facial expressions, machines can adapt their responses, improving user experience and personalization. For instance, in healthcare, emotion recognition can aid in monitoring mental health or assist individuals with conditions like autism. In customer service, recognizing emotions can enhance chatbot interactions or improve sentiment analysis. In security, it can contribute to more sophisticated surveillance systems, helping identify potentially harmful situations.<br><br>
 **The objectives:** <br>
 The primary goal of facial emotion recognition in machine learning and AI is to enable machines to accurately interpret and understand human emotions based on facial expressions. This involves training models to classify facial features into different emotional states, such as happiness, sadness, anger, surprise, fear, and neutrality. The objective is to achieve high accuracy and robustness across diverse demographics, lighting conditions, and facial expressions.
-[(See references 5, 6, 7, 8)](#references2)
+
 
 Furthermore, the goal extends beyond mere emotion classification. Effective facial emotion recognition systems should also consider temporal aspects, understanding changes in emotion over time. This can lead to more context-aware systems that respond appropriately to evolving emotional states.<br><br>
 **The key questions:** <br>
